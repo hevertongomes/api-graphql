@@ -4,7 +4,7 @@
 
 Clonar no repositório: <https://github.com/hevertongomes/api-graphql>
 
-Como alternativa para o mando pode executá-lo usando o docker, mostrado a seguir
+Como alternativa para o mongo pode executá-lo usando o docker, mostrado a seguir
 
 ```bash
 $ git pull mongo
